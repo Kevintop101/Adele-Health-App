@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adele Health App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+819e0efb585f8a8548960f07c4b5a36eb1f80f5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adele Health App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adele Health App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

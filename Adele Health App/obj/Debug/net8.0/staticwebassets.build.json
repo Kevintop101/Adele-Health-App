@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9R9ck668DW74wXiEoPpb/RTmPE0BIV/4G95gEyGeIJk=",
+  "Hash": "lhXQmqhTIUZmLxFYbF9IeqQE18DvKov5/0XwOHuMLw8=",
   "Source": "Adele Health App",
   "BasePath": "_content/Adele Health App",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Adele Health App\\wwwroot",
       "Source": "Adele Health App",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Adele Health App.styles.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Adele Health App.styles.css",
       "SourceId": "Adele Health App",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "Adele Health App#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "zuZBXy4mCj+wkgiVBKKQEanslKzDZ6c6G2PT75krEQA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Adele Health App.styles.css"
+      "OriginalItemSpec": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Adele Health App.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adele Health App.bundle.scp.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adele Health App.bundle.scp.css",
       "SourceId": "Adele Health App",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "Adele Health App#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "zuZBXy4mCj+wkgiVBKKQEanslKzDZ6c6G2PT75krEQA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adele Health App.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adele Health App.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\css\\site.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "bvfpn3y0rx",
+      "Integrity": "l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\favicon.ico",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,199 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\adele.png",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/adele#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y5630fe9j1",
+      "Integrity": "CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adele.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\adeleyoumatter.png",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/adeleyoumatter#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9h24dnaja5",
+      "Integrity": "c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adeleyoumatter.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\ai.png",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/ai#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v1pfts4ezy",
+      "Integrity": "beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ai.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\chat.png",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/chat#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jubmearj0i",
+      "Integrity": "e4v+mSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chat.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\discover1.png",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/discover1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2vv99pj35a",
+      "Integrity": "jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\discover1.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\journal1.png",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/journal1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "di9xls8vlk",
+      "Integrity": "ZRODLNMH0GAtr0pe/PQdUv2+IHzJnRk2ejcr19CbuDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\journal1.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\settings.png",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/settings#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ge2dpwe8c3",
+      "Integrity": "mJk0j0eM44HuVaIVBLNDJPVlC4V5+StTW32X8avjud4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\settings.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\signout.png",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/signout#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfl7wp63wg",
+      "Integrity": "QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\signout.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\support.png",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
+      "BasePath": "_content/Adele Health App",
+      "RelativePath": "images/support#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5fz2akvfi",
+      "Integrity": "ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I+XjM7Tig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\support.png"
+    },
+    {
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\js\\site.js",
+      "SourceId": "Adele Health App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -164,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1067,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1151,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1256,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Adele Health App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\",
       "BasePath": "_content/Adele Health App",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1322,7 +1511,7 @@
   "Endpoints": [
     {
       "Route": "Adele Health App.bundle.scp.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adele Health App.bundle.scp.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adele Health App.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1359,7 +1548,7 @@
     },
     {
       "Route": "Adele Health App.qy19bz9r5r.bundle.scp.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adele Health App.bundle.scp.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adele Health App.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1404,7 +1593,7 @@
     },
     {
       "Route": "Adele Health App.qy19bz9r5r.styles.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Adele Health App.styles.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Adele Health App.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1449,7 +1638,7 @@
     },
     {
       "Route": "Adele Health App.styles.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Adele Health App.styles.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Adele Health App.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1485,8 +1674,8 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\css\\site.css",
+      "Route": "css/site.bvfpn3y0rx.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1495,7 +1684,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "661"
         },
         {
           "Name": "Content-Type",
@@ -1503,11 +1692,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 02:28:12 GMT"
+          "Value": "Wed, 16 Apr 2025 19:08:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1517,7 +1706,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "bvfpn3y0rx"
         },
         {
           "Name": "label",
@@ -1525,13 +1714,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1540,7 +1729,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "661"
         },
         {
           "Name": "Content-Type",
@@ -1548,11 +1737,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 02:28:12 GMT"
+          "Value": "Wed, 16 Apr 2025 19:08:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1562,13 +1751,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1613,7 +1802,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1649,8 +1838,746 @@
       ]
     },
     {
+      "Route": "images/adele.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\adele.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 19:38:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY="
+        }
+      ]
+    },
+    {
+      "Route": "images/adele.y5630fe9j1.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\adele.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 19:38:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y5630fe9j1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/adele.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY="
+        }
+      ]
+    },
+    {
+      "Route": "images/adeleyoumatter.9h24dnaja5.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\adeleyoumatter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:51:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9h24dnaja5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/adeleyoumatter.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY="
+        }
+      ]
+    },
+    {
+      "Route": "images/adeleyoumatter.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\adeleyoumatter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:51:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY="
+        }
+      ]
+    },
+    {
+      "Route": "images/ai.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\ai.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/ai.v1pfts4ezy.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\ai.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v1pfts4ezy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ai.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/chat.jubmearj0i.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\chat.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4v+mSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 01:20:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jubmearj0i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chat.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e4v+mSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks="
+        }
+      ]
+    },
+    {
+      "Route": "images/chat.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\chat.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4v+mSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 01:20:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e4v+mSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks="
+        }
+      ]
+    },
+    {
+      "Route": "images/discover1.2vv99pj35a.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\discover1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2vv99pj35a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/discover1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w="
+        }
+      ]
+    },
+    {
+      "Route": "images/discover1.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\discover1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w="
+        }
+      ]
+    },
+    {
+      "Route": "images/journal1.di9xls8vlk.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\journal1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRODLNMH0GAtr0pe/PQdUv2+IHzJnRk2ejcr19CbuDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:46:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di9xls8vlk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/journal1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRODLNMH0GAtr0pe/PQdUv2+IHzJnRk2ejcr19CbuDc="
+        }
+      ]
+    },
+    {
+      "Route": "images/journal1.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\journal1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRODLNMH0GAtr0pe/PQdUv2+IHzJnRk2ejcr19CbuDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:46:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRODLNMH0GAtr0pe/PQdUv2+IHzJnRk2ejcr19CbuDc="
+        }
+      ]
+    },
+    {
+      "Route": "images/settings.ge2dpwe8c3.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\settings.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJk0j0eM44HuVaIVBLNDJPVlC4V5+StTW32X8avjud4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:27:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ge2dpwe8c3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/settings.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJk0j0eM44HuVaIVBLNDJPVlC4V5+StTW32X8avjud4="
+        }
+      ]
+    },
+    {
+      "Route": "images/settings.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\settings.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJk0j0eM44HuVaIVBLNDJPVlC4V5+StTW32X8avjud4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:27:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJk0j0eM44HuVaIVBLNDJPVlC4V5+StTW32X8avjud4="
+        }
+      ]
+    },
+    {
+      "Route": "images/signout.kfl7wp63wg.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\signout.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfl7wp63wg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/signout.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8="
+        }
+      ]
+    },
+    {
+      "Route": "images/signout.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\signout.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8="
+        }
+      ]
+    },
+    {
+      "Route": "images/support.h5fz2akvfi.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\support.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I+XjM7Tig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5fz2akvfi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/support.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I+XjM7Tig="
+        }
+      ]
+    },
+    {
+      "Route": "images/support.png",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\support.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I+XjM7Tig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 18:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I+XjM7Tig="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1687,7 +2614,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1732,7 +2659,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1769,7 +2696,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1814,7 +2741,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1851,7 +2778,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1896,7 +2823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1933,7 +2860,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1978,7 +2905,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2015,7 +2942,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2060,7 +2987,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2097,7 +3024,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2142,7 +3069,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2179,7 +3106,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2224,7 +3151,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2261,7 +3188,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2306,7 +3233,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2343,7 +3270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2388,7 +3315,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2433,7 +3360,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2470,7 +3397,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2507,7 +3434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2552,7 +3479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2589,7 +3516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2634,7 +3561,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2671,7 +3598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2716,7 +3643,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2753,7 +3680,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2798,7 +3725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2835,7 +3762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2872,7 +3799,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2909,7 +3836,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2954,7 +3881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2999,7 +3926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3044,7 +3971,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3089,7 +4016,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3126,7 +4053,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3171,7 +4098,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3208,7 +4135,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3245,7 +4172,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3282,7 +4209,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3327,7 +4254,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3372,7 +4299,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3417,7 +4344,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3454,7 +4381,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3499,7 +4426,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3536,7 +4463,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3573,7 +4500,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3610,7 +4537,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3655,7 +4582,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3700,7 +4627,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3737,7 +4664,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3782,7 +4709,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3819,7 +4746,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3864,7 +4791,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3901,7 +4828,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3938,7 +4865,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3983,7 +4910,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4028,7 +4955,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4065,7 +4992,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4110,7 +5037,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4147,7 +5074,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4184,7 +5111,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4229,7 +5156,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4266,7 +5193,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4311,7 +5238,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4356,7 +5283,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4393,7 +5320,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4438,7 +5365,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4475,7 +5402,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4520,7 +5447,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4565,7 +5492,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4602,7 +5529,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4647,7 +5574,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4684,7 +5611,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4721,7 +5648,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4766,7 +5693,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4803,7 +5730,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4848,7 +5775,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4885,7 +5812,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4922,7 +5849,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4967,7 +5894,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5012,7 +5939,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5049,7 +5976,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5094,7 +6021,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5131,7 +6058,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5168,7 +6095,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5205,7 +6132,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5250,7 +6177,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5295,7 +6222,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5340,7 +6267,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5377,7 +6304,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5422,7 +6349,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5467,7 +6394,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5504,7 +6431,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5549,7 +6476,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5594,7 +6521,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5631,7 +6558,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5668,7 +6595,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5713,7 +6640,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5750,7 +6677,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5795,7 +6722,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5832,7 +6759,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5877,7 +6804,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5914,7 +6841,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5951,7 +6878,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5996,7 +6923,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6033,7 +6960,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6078,7 +7005,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6115,7 +7042,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6160,7 +7087,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6205,7 +7132,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6242,7 +7169,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6287,7 +7214,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6324,7 +7251,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6369,7 +7296,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\kevin\\Downloads\\Adele Health App\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
