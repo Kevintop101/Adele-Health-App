@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\Source\\Repos\\Adele-Health-App\\Adele Health App\\Adele Health App.csproj": {}
+    "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\Adele Health App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\Source\\Repos\\Adele-Health-App\\Adele Health App\\Adele Health App.csproj": {
+    "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\Adele Health App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\Source\\Repos\\Adele-Health-App\\Adele Health App\\Adele Health App.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\Adele Health App.csproj",
         "projectName": "Adele Health App",
-        "projectPath": "C:\\Users\\kevin\\Source\\Repos\\Adele-Health-App\\Adele Health App\\Adele Health App.csproj",
+        "projectPath": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\Adele Health App.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\Source\\Repos\\Adele-Health-App\\Adele Health App\\obj\\",
+        "outputPath": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

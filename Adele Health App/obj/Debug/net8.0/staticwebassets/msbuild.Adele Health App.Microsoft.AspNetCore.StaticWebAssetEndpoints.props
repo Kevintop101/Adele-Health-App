@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qy19bz9r5r"},{"Name":"integrity","Value":"sha256-zuZBXy4mCj\u002BwkgiVBKKQEanslKzDZ6c6G2PT75krEQA="},{"Name":"label","Value":"_content/Adele Health App/Adele Health App.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zuZBXy4mCj\u002BwkgiVBKKQEanslKzDZ6c6G2PT75krEQA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 01 Apr 2025 02:28:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Adele Health App/css/site.c2tiyv64ts.css">
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/css/site.bvfpn3y0rx.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2tiyv64ts"},{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="},{"Name":"label","Value":"_content/Adele Health App/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 01 Apr 2025 02:28:12 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bvfpn3y0rx"},{"Name":"integrity","Value":"sha256-l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc="},{"Name":"label","Value":"_content/Adele Health App/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"661"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 19:08:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Adele Health App/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 01 Apr 2025 02:28:12 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"661"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022l5/eUCkDrVMmKHJqXhH/FkNY3MK0ua5Qqlr7CKP8gYc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 19:08:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Adele Health App/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -35,6 +35,114 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 01 Apr 2025 02:28:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/adele.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\adele.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"83264"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 19:38:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/adele.y5630fe9j1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\adele.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y5630fe9j1"},{"Name":"integrity","Value":"sha256-CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY="},{"Name":"label","Value":"_content/Adele Health App/images/adele.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"83264"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CgLkurD9kBO5qy2qK0dYcdrv1lTFS/OcS6vLVQpPvFY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 19:38:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/adeleyoumatter.9h24dnaja5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\adeleyoumatter.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9h24dnaja5"},{"Name":"integrity","Value":"sha256-c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY="},{"Name":"label","Value":"_content/Adele Health App/images/adeleyoumatter.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21914"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:51:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/adeleyoumatter.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\adeleyoumatter.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21914"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022c9Hnc4Q8DzKadKs9RYmuBxDDyJPGGMW9u6bgnWqsSGY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:51:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/ai.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ai.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20707"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:53:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/ai.v1pfts4ezy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ai.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v1pfts4ezy"},{"Name":"integrity","Value":"sha256-beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ="},{"Name":"label","Value":"_content/Adele Health App/images/ai.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20707"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022beZUqgat5PH6KfvIXUMyKZ2qb6bSbvegaL5dAQlqErQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:53:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/chat.jubmearj0i.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chat.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jubmearj0i"},{"Name":"integrity","Value":"sha256-e4v\u002BmSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks="},{"Name":"label","Value":"_content/Adele Health App/images/chat.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18202"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022e4v\u002BmSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 01:20:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/chat.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chat.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e4v\u002BmSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18202"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022e4v\u002BmSs9/hQrvvMju7AsKen4Z0ImU8gRlndhRqFKmks=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 01:20:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/discover1.2vv99pj35a.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\discover1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2vv99pj35a"},{"Name":"integrity","Value":"sha256-jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w="},{"Name":"label","Value":"_content/Adele Health App/images/discover1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14220"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:49:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/discover1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\discover1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14220"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jqadnGN8ZdE8CMADV0nt4JwhznWP0mM94g2U/Z8GZ7w=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:49:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/journal1.di9xls8vlk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\journal1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"di9xls8vlk"},{"Name":"integrity","Value":"sha256-ZRODLNMH0GAtr0pe/PQdUv2\u002BIHzJnRk2ejcr19CbuDc="},{"Name":"label","Value":"_content/Adele Health App/images/journal1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18721"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZRODLNMH0GAtr0pe/PQdUv2\u002BIHzJnRk2ejcr19CbuDc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:46:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/journal1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\journal1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZRODLNMH0GAtr0pe/PQdUv2\u002BIHzJnRk2ejcr19CbuDc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18721"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZRODLNMH0GAtr0pe/PQdUv2\u002BIHzJnRk2ejcr19CbuDc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:46:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/settings.ge2dpwe8c3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\settings.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ge2dpwe8c3"},{"Name":"integrity","Value":"sha256-mJk0j0eM44HuVaIVBLNDJPVlC4V5\u002BStTW32X8avjud4="},{"Name":"label","Value":"_content/Adele Health App/images/settings.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15810"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mJk0j0eM44HuVaIVBLNDJPVlC4V5\u002BStTW32X8avjud4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:27:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/settings.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\settings.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mJk0j0eM44HuVaIVBLNDJPVlC4V5\u002BStTW32X8avjud4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15810"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mJk0j0eM44HuVaIVBLNDJPVlC4V5\u002BStTW32X8avjud4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:27:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/signout.kfl7wp63wg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\signout.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kfl7wp63wg"},{"Name":"integrity","Value":"sha256-QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8="},{"Name":"label","Value":"_content/Adele Health App/images/signout.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12296"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:28:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/signout.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\signout.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12296"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022QKwYPS78xBI/xyckmsG1iZoMCuwSfQLi1nwqQdHTNp8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:28:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/support.h5fz2akvfi.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\support.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h5fz2akvfi"},{"Name":"integrity","Value":"sha256-ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I\u002BXjM7Tig="},{"Name":"label","Value":"_content/Adele Health App/images/support.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23358"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I\u002BXjM7Tig=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:28:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Adele Health App/images/support.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\support.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I\u002BXjM7Tig="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23358"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ix5bC4FnAyKSSbi0CRMpXJDVG29SqG6N99I\u002BXjM7Tig=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:28:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Adele Health App/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
