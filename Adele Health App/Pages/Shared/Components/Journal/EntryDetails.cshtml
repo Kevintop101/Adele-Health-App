@@ -1,0 +1,137 @@
+@model Adele_Health_App.Models.EntryModel
+@{
+    var entryIndex = (int)ViewData["EntryIndex"];
+    var entryTotal = (int)ViewData["EntryTotal"];
+}
+
+<div class="entry-details-popup" style="width: 700px; padding: 16px; background: white; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; backdrop-filter: blur(40px); display: flex; flex-direction: column; align-items: center; position: relative;">
+    <!-- Header -->
+    <div style="width: 100%; display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+        <div id="details-header-@Model.Id" style="color: #252B37; font-size: 16px; font-family: SF Pro; font-weight: 510;">
+            @Model.Date (Reading @entryIndex of @entryTotal)
+        </div>
+        <button type="button" class="close-entry-details" style="all: unset; cursor: pointer;">
+            <div style="width: 30px; height: 30px; background: #F4F4F2; border-radius: 50%; backdrop-filter: blur(27.18px); display: flex; justify-content: center; align-items: center;">
+                <svg viewBox="0 0 24 24" style="width: 16px; height: 16px;">
+                    <path d="M6 6L18 18M6 18L18 6" stroke="#535862" stroke-width="2" stroke-linecap="round"/>
+                </svg>
+            </div>
+        </button>
+    </div>
+
+    <!-- View Mode -->
+    <div id="details-view-@Model.Id" class="entry-details-view" style="width: 100%; background: white; border-radius: 16px; outline: 0.75px solid #D5D7DA; display: flex; flex-direction: column;">
+        <div style="padding: 16px; border-bottom: 1px solid #D5D7DA; display: flex; flex-direction: column; gap: 12px; position: relative;">
+            <!-- 🖉 Edit button -->
+            <button type="button" class="entry-details-edit-toggle" style="all: unset; cursor: pointer; position: absolute; top: 16px; right: 16px;">
+                <svg viewBox="0 0 24 24" fill="none" style="width: 16px; height: 16px;">
+                    <path d="M15.25 4.25l4.5 4.5-12 12H3.25v-4.5l12-12zM14 6l4 4" stroke="#023451" stroke-width="1.33" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+
+            <div style="display: flex; align-items: center; gap: 6px;">
+                <div style="width: 16px; height: 16px; border: 1.33px solid #033D60;"></div>
+                <div id="details-time-@Model.Id" style="color: #313537; font-size: 12px;">@Model.Time</div>
+            </div>
+            <div>
+                <span id="details-reading-@Model.Id" style="color: #313537; font-size: 24px; font-weight: 700;">@Model.Reading</span>
+                <span style="font-size: 12px;">mg/dL</span>
+            </div>
+            <div id="details-meal-@Model.Id" style="color: #313537; font-size: 12px;">@Model.MealTiming</div>
+        </div>
+
+        <!-- Measurements -->
+        @if (Model.Measurements != null)
+        {
+            var count = 0;
+            foreach (var measurement in Model.Measurements)
+            {
+                <div style="padding: 12px 16px; display: flex; justify-content: space-between; align-items: center;">
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <div style="width: 24px; height: 24px; background: #FFE3E1; position: relative;">
+                            <div style="width: 12px; height: 12px; background: #FF453A; position: absolute; top: 6px; left: 6px;"></div>
+                        </div>
+                        <div style="font-size: 14px;">@measurement.Key</div>
+                    </div>
+                    <div style="padding: 2px 8px; background: #FAFAFA; border: 1px solid #E9EAEB; border-radius: 9999px; font-size: 12px;">@measurement.Value</div>
+                </div>
+                @if (++count < Model.Measurements.Count)
+                {
+                    <div style="height: 1px; background-color: #E9EAEB; margin: 0px 16px;"></div>
+                }
+            }
+        }
+
+        <!-- Tags -->
+        @if (Model.Tags != null && Model.Tags.Any())
+        {
+            <div style="padding: 12px 16px; display: flex; flex-wrap: wrap; gap: 8px;">
+                @foreach (var tag in Model.Tags)
+                {
+                    <div style="padding: 2px 8px; background: #FAFAFA; border: 1px solid #E9EAEB; border-radius: 9999px; font-size: 12px;">@tag</div>
+                }
+            </div>
+        }
+
+        <!-- Notes -->
+        @if (!string.IsNullOrEmpty(Model.Notes))
+        {
+            <div style="padding: 16px; border-top: 1px solid #E9EAEB; display: flex; flex-direction: column; gap: 8px;">
+                <div style="display: flex; align-items: center; gap: 8px;">
+                    <div style="width: 24px; height: 24px; background: #E9EAEB;"></div>
+                    <div style="font-size: 14px;">Notes</div>
+                </div>
+                <div style="padding: 12px; border: 1px solid #E9EAEB; border-radius: 8px;">
+                    <div style="font-size: 16px; color: #414651;">@Model.Notes</div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <!-- Edit Mode (placeholder) -->
+    <div id="details-edit-@Model.Id" class="entry-details-edit" style="display: none; width: 100%; border-radius: 16px; outline: 0.75px solid #D5D7DA; padding: 16px; flex-direction: column; gap: 16px;">
+        <div style="font-size: 14px;">Edit Mode Active — (editing fields coming next).</div>
+        <button type="button" class="entry-details-edit-cancel" style="align-self: flex-end; padding: 6px 12px; background: #EEE; border-radius: 8px;">Cancel</button>
+    </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Close modal
+    document.querySelectorAll(".close-entry-details").forEach(button => {
+        button.addEventListener("click", function (e) {
+            e.stopPropagation();
+            const modal = button.closest(".entry-details-modal");
+            if (modal) modal.style.display = "none";
+        });
+    });
+
+    // Edit toggle
+    document.querySelectorAll(".entry-details-edit-toggle").forEach(editBtn => {
+        editBtn.addEventListener("click", function () {
+            const modal = editBtn.closest(".entry-details-popup");
+            modal.querySelector(".entry-details-view").style.display = "none";
+            modal.querySelector(".entry-details-edit").style.display = "flex";
+        });
+    });
+
+    // Cancel edit
+    document.querySelectorAll(".entry-details-edit-cancel").forEach(cancelBtn => {
+        cancelBtn.addEventListener("click", function () {
+            const modal = cancelBtn.closest(".entry-details-popup");
+            modal.querySelector(".entry-details-view").style.display = "flex";
+            modal.querySelector(".entry-details-edit").style.display = "none";
+        });
+    });
+});
+
+// ✅ Restore update function for external use (from Entry.cshtml)
+function updateEntryDetails(entryId, newTime, newReading, newMealTiming) {
+    const timeEl = document.getElementById('details-time-' + entryId);
+    const readingEl = document.getElementById('details-reading-' + entryId);
+    const mealEl = document.getElementById('details-meal-' + entryId);
+    if (timeEl) timeEl.textContent = newTime;
+    if (readingEl) readingEl.textContent = newReading;
+    if (mealEl) mealEl.textContent = newMealTiming;
+}
+</script>

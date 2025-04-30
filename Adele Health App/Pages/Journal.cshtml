@@ -1,7 +1,91 @@
 ﻿@page
 @model Adele_Health_App.Pages.JournalModel
-@{
-}
-<div class="text-center">
-    <h1 class="display-4">Journal</h1>
+@using Adele_Health_App.Models
+
+<div style="width: 1440px; height: 1472px; padding-right: 226px; position: relative; background: white; overflow: hidden; justify-content: space-between; align-items: flex-start; display: inline-flex">
+    <div style="width: 1082px; height: 1082px; left: 323px; top: -540px; position: absolute; opacity: 0.10; background: white; border-radius: 9999px; filter: blur(372.80px)"></div>
+
+    <div style="width: 700px; position: relative; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+
+        <!-- Top Header -->
+        <div data-size="LVP" style="width: 1152px; padding-top: 42px; padding-bottom: 12px; padding-left: 40px; padding-right: 40px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 32px; height: 32px; position: relative"></div>
+            <div style="flex: 1 1 0; justify-content: center; align-items: center; gap: 10px; display: flex">
+                <div style="padding-top: 7px; padding-bottom: 7px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+                    <div style="width: 32px; height: 23.59px; background: black"></div>
+                    <div style="width: 32px; height: 23.59px; background: var(--Colors-Base-black, black)"></div>
+                </div>
+            </div>
+            <div data-contrast-border="true" data-placeholder="False" data-size="sm" data-status-icon="Company" data-text="True" style="width: 32px; height: 32px; position: relative; background: var(--Component-colors-Components-Avatars-avatar-bg, #F5F5F5); border-radius: 9999px">
+                <div style="width: 32px; height: 32px; left: 0px; top: 0px; position: absolute; border-radius: 9999px"></div>
+                <!--<div style="width: 32px; left: 0px; top: 6px; position: absolute; text-align: center; color: var(--Colors-Foreground-fg-quaternary-(500), #717680); font-size: 14px; font-family: SF Pro; font-weight: 590; line-height: 20px; word-wrap: break-word">OR</div>-->
+            </div>
+        </div>
+
+        <!-- Journal Section -->
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+
+            <!-- Title and Filter -->
+            <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+                <div style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+                    <div style="justify-content: flex-start; align-items: center; gap: 2px; display: flex">
+                        <div style="color: var(--Brand-Colors-Adele-Text-Gray, #434343); font-size: 24px; font-family: SF Pro; font-weight: 700; line-height: 32px; word-wrap: break-word">Journal</div>
+                    </div>
+
+                    <!-- Right Side Arrows
+                    <div style="justify-content: flex-start; align-items: center; gap: 4px; display: flex">-->
+                    <!-- Forward Arrow Icon
+                    <div style="width: 36px; padding: 8px; box-shadow: 0px 1px 2px rgba(10, 12.67, 18, 0.05); overflow: hidden; border-radius: 8px; justify-content: center; align-items: center; display: flex">
+                      <div style="width: 20px; height: 20px; position: relative;">
+                        <div style="width: 0; height: 0; border-top: 8px solid transparent; border-bottom: 8px solid transparent; border-left: 12px solid #023451; position: absolute; top: 2px; left: 4px; transform: rotate(-45deg);"></div>
+                      </div>
+                    </div>-->
+                    <!-- Settings Gear Icon
+                      <div style="width: 36px; padding: 8px; box-shadow: 0px 1px 2px rgba(10, 12.67, 18, 0.05); overflow: hidden; border-radius: 8px; justify-content: center; align-items: center; display: flex">
+                        <div style="width: 20px; height: 20px; position: relative;">
+                          <div style="width: 16px; height: 16px; background: transparent; border: 2px solid #023451; border-radius: 50%; position: absolute; top: 2px; left: 2px;"></div>
+                          <div style="width: 4px; height: 4px; background: #023451; border-radius: 50%; position: absolute; top: 8px; left: 8px;"></div>
+                        </div>
+                      </div>
+                    </div>-->
+                </div>
+
+                <!-- Filter Buttons
+                <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                  <div style="flex: 1 1 0; height: 28px; padding: 6px 8px; background: #2C76AA; border-radius: 8px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                    <div style="text-align: center; color: white; font-size: 12px; font-family: SF Pro; font-weight: 590; line-height: 18px; word-wrap: break-word">Today</div>
+                  </div>
+                  <div style="flex: 1 1 0; padding: 6px 8px; background: white; border-radius: 8px; outline: 0.50px #D5D7DA solid; outline-offset: -0.50px; display: inline-flex; justify-content: center; align-items: center">
+                    <div style="text-align: center; color: #181D27; font-size: 12px; font-family: SF Pro; font-weight: 400; line-height: 18px">Week</div>
+                  </div>
+                  <div style="flex: 1 1 0; padding: 6px 8px; background: white; border-radius: 8px; outline: 0.50px #D5D7DA solid; outline-offset: -0.50px; display: inline-flex; justify-content: center; align-items: center">
+                    <div style="text-align: center; color: #181D27; font-size: 12px; font-family: SF Pro; font-weight: 400; line-height: 18px">1M</div>
+                  </div>
+                  <div style="flex: 1 1 0; padding: 6px 8px; background: white; border-radius: 8px; outline: 0.50px #D5D7DA solid; outline-offset: -0.50px; display: inline-flex; justify-content: center; align-items: center">
+                    <div style="text-align: center; color: #181D27; font-size: 12px; font-family: SF Pro; font-weight: 400; line-height: 18px">3M</div>
+                  </div>
+                  <div style="flex: 1 1 0; padding: 6px 8px; opacity: 0.88; background: white; border-radius: 8px; outline: 0.50px #D5D7DA solid; outline-offset: -0.50px; display: inline-flex; justify-content: center; align-items: center">
+                    <div style="text-align: center; color: #181D27; font-size: 12px; font-family: SF Pro; font-weight: 400; line-height: 18px">1YR</div>
+                  </div>-->
+                <!-- Sort Icon (Upside Down Pyramid Lines)
+                  <div style="width: 28px; height: 28px; padding: 6.22px; box-shadow: 0px 0.78px 1.56px rgba(10, 12.67, 18, 0.05); overflow: hidden; border-radius: 6.22px; justify-content: center; align-items: center; display: flex;">
+                    <div style="width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 8px solid #033D60;"></div>
+                  </div>
+                </div>-->
+            </div>
+
+            <!-- GlucoseGraph -->
+            <partial name="Components/Journal/GlucoseGraph" model="Model.EntrySections" />
+
+            <!-- A1C Button -->
+            <partial name="Components/Journal/A1CButton" />
+
+            <!-- Entry Sections -->
+            @foreach (var section in Model.EntrySections)
+            {
+                <partial name="Components/Journal/EntrySection" model="section" />
+            }
+
+        </div>
+    </div>
 </div>

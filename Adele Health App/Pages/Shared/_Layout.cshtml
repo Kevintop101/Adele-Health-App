@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Adele_Health_App.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 </head>
 <body>
     <div class="d-flex">
@@ -28,12 +29,15 @@
             </a>
 
             <div style="display: flex; justify-content: center; margin-top: 40px;">
-                <button type="button"
-                        style="display: flex; align-items: center; gap: 8px; border: 2px solid #004F71; color: #004F71; background-color: white; font-weight: 600; padding: 8px 14px; border-radius: 8px;">
-                    <span style="font-size: 20px;">+</span>
-                    Log a Reading
-                </button>
+                <form method="get" asp-page="/Logging">
+                    <button type="submit"
+                            style="display: flex; align-items: center; gap: 8px; border: 2px solid #004F71; color: #004F71; background-color: white; font-weight: 600; padding: 8px 14px; border-radius: 8px;">
+                        <span style="font-size: 20px;">+</span>
+                        Log a Reading
+                    </button>
+                </form>
             </div>
+
 
             <img src="~/images/ai.png" alt="Adele Logo" class="img-fluid mx-auto mb-4" style="max-width: 280px; margin-top: 158px;" />
 
