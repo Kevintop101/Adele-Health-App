@@ -1,5 +1,10 @@
 ﻿@page
 @model IndexModel
+@using Microsoft.AspNetCore.Identity
+@using Adele_Health_App.Areas.Identity.Data
+
+@inject SignInManager<AdeleHealthAppUser> SignInManager
+@inject UserManager<AdeleHealthAppUser> UserManager
 @{
     ViewData["Title"] = "Home page";
     Layout = "_Layout";
@@ -12,10 +17,10 @@
         align-items: center;
         justify-content: center;
         min-height: 100vh;
-        padding-bottom: 100px; 
+        padding-bottom: 100px;
         background-color: #FFF9F6;
-        padding-left: 384px; 
-        width: calc(100% - 384px); 
+        padding-left: 384px;
+        width: calc(100% - 384px);
     }
 
     .greeting {
@@ -30,6 +35,10 @@
             cursor: pointer;
         }
 
+    .punctuation {
+        color: #2D8CFF;
+    }
+
     .reading-info {
         font-size: 16px;
         color: #777;
@@ -37,6 +46,23 @@
         align-items: center;
         gap: 6px;
         margin-top: 4px;
+    }
+
+    .reading-info {
+        font-size: 16px;
+        color: #777;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        margin-top: 0px; 
+    }
+
+    .reading-info-inline {
+        display: flex;
+        align-items: center;
+        font-size: 14px;
+        color: #4B5563;
+        margin-top: 8px;
     }
 
     .log-reading-btn {
@@ -58,7 +84,7 @@
         padding: 20px;
         background-color: #fff;
         box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.05);
-        margin-top: -175px; 
+        margin-top: -175px;
     }
 
     .chat-box {
@@ -92,32 +118,146 @@
         cursor: pointer;
         margin-left: 8px;
     }
-</style>
 
+    .message-wrapper {
+        display: flex;
+        max-width: 75%;
+    }
+
+        .message-wrapper.you {
+            align-self: flex-end;
+            justify-content: flex-end;
+        }
+
+        .message-wrapper.assistant {
+            align-self: flex-start;
+            justify-content: flex-start;
+        }
+
+        .message-wrapper.error {
+            align-self: flex-start;
+            justify-content: flex-start;
+            color: red;
+        }
+
+    .message-bubble {
+        padding: 8px 12px;
+        font-size: 16px;
+        line-height: 1.5;
+        max-width: 100%;
+        word-wrap: break-word;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    .message-wrapper.you .message-bubble {
+        background-color: #e6e0e0;
+        color: rgb(0, 0, 0);
+    }
+
+    .message-wrapper.assistant .message-bubble {
+        background-color: #f1f1f1;
+        color: black;
+    }
+    .header-icon {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+        margin-left: -14px;
+    }
+</style>
 <div class="main-container">
     <div class="greeting">
-        Morning, <span class="name">Ellie!</span>
-    </div>
-    <div class="reading-info">
-        <i class="bi bi-clock"></i> Last reading: 95 mg/dL
-    </div>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            var user = UserManager.GetUserAsync(User).Result;
+            var displayName = (!string.IsNullOrEmpty(user?.FirstName) && !string.IsNullOrEmpty(user?.LastName))
+            ? user.FirstName
+            : UserManager.GetUserName(User);
+                <h2 class="greeting-text">
+                    Morning, <span class="name">@displayName<span class="punctuation">!</span></span>
+                </h2>
+        }
+        else
+        {
+             <h2 class="greeting-text">
+             Morning, <span class="name">User<span class="punctuation">!</span></span>
+             </h2>
+        }
+        </div>
 
-    <button class="log-reading-btn">
-        <span style="font-size: 20px;">+</span> Log a Reading
-    </button>
-</div>
+        <div class="reading-info">
+        <i class="fas fa-clock" style="color: #9ca3af; margin-right: 3px; margin-bottom: 8px;"></i>
+        <span style="margin-bottom: 10px;">Last reading: 95 mg/dL</span>
+        </div>
 
-<!-- Chat box placed below main content -->
-<div class="chat-box-container">
-    <div class="chat-box">
-        <div style="display: flex; align-items: center;">
-            <input type="text" class="chat-input" placeholder="Ask AdeleAI about your health" />
-            <button class="send-button">
-                ➤
+        <form method="get" asp-page="/Logging">
+            <button type="submit"
+                    style="display: flex; flex-direction: column; align-items: center; justify-content: center; border: 2px solid #004F71; color: #004F71; background-color: white; font-weight: 600; padding: 8px 14px; border-radius: 8px;">
+            <span style="font-size: 20px;">+ Log a Reading</span>
             </button>
-        </div>
-        <div class="chat-disclaimer">
-            This information is not medical advice. Always consult a qualified professional for health-related inquiries.
-        </div>
-    </div>
+        </form>
 </div>
+        <div id="chat-window" class="chat-window">
+            <!-- Messages will appear here -->
+        </div>
+
+        <div id="chat-box-container" class="chat-box-container">
+        </div>
+        <div class="chat-box">
+            <div style="display: flex; align-items: center;">
+                <input id="user-input" type="text" class="chat-input" placeholder="Ask AdeleAI about your health" />
+                <button class="send-button" onclick="sendMessage()">
+                    ➤
+                </button>
+            </div>
+            <div class="chat-disclaimer">
+                This information is not medical advice. Always consult a qualified professional for health-related
+                inquiries.
+            </div>
+        </div>
+
+@section Scripts {
+    <script>
+        async function sendMessage() {
+            const input = document.getElementById("user-input");
+            const message = input.value.trim();
+            if (!message) return;
+
+            // Hide the main container and show the chat box
+            document.getElementById("main-container").style.display = "none";
+
+            addMessage("you", message);
+            input.value = "";
+
+            const response = await fetch('/api/chat/send', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message: message })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                addMessage("assistant", data.reply);
+            } else {
+                addMessage("error", "Something went wrong...");
+            }
+        }
+
+        function addMessage(role, text) {
+            const chatWindow = document.getElementById("chat-window");
+            const messageWrapper = document.createElement("div");
+            messageWrapper.classList.add("message-wrapper", role);
+            messageWrapper.innerHTML = `<strong>${role.toUpperCase()}:</strong>`;
+
+            const messageBubble = document.createElement("div");
+            messageBubble.classList.add("message-bubble");
+            messageBubble.innerHTML = text;
+
+            messageWrapper.appendChild(messageBubble);
+            chatWindow.appendChild(messageWrapper);
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+        }
+    </script>
+
+}
+

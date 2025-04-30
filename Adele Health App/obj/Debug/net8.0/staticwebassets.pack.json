@@ -17,12 +17,20 @@
       "PackagePath": "staticwebassets\\images\\adele.png"
     },
     {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\adelesmall.png",
+      "PackagePath": "staticwebassets\\images\\adelesmall.png"
+    },
+    {
       "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\adeleyoumatter.png",
       "PackagePath": "staticwebassets\\images\\adeleyoumatter.png"
     },
     {
       "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\ai.png",
       "PackagePath": "staticwebassets\\images\\ai.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\bookmark.png",
+      "PackagePath": "staticwebassets\\images\\bookmark.png"
     },
     {
       "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\chat.png",
@@ -33,8 +41,28 @@
       "PackagePath": "staticwebassets\\images\\discover1.png"
     },
     {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\exercise.png",
+      "PackagePath": "staticwebassets\\images\\exercise.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\glucose.png",
+      "PackagePath": "staticwebassets\\images\\glucose.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\hydration.png",
+      "PackagePath": "staticwebassets\\images\\hydration.png"
+    },
+    {
       "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\journal1.png",
       "PackagePath": "staticwebassets\\images\\journal1.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\medication.png",
+      "PackagePath": "staticwebassets\\images\\medication.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\nutrition.png",
+      "PackagePath": "staticwebassets\\images\\nutrition.png"
     },
     {
       "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\settings.png",
@@ -43,6 +71,22 @@
     {
       "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\signout.png",
       "PackagePath": "staticwebassets\\images\\signout.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\sleep.png",
+      "PackagePath": "staticwebassets\\images\\sleep.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\sparklechat.png",
+      "PackagePath": "staticwebassets\\images\\sparklechat.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\sparkles.png",
+      "PackagePath": "staticwebassets\\images\\sparkles.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\stress.png",
+      "PackagePath": "staticwebassets\\images\\stress.png"
     },
     {
       "Id": "C:\\Users\\kevin\\Downloads\\AdeleHealth\\Adele Health App\\wwwroot\\images\\support.png",
