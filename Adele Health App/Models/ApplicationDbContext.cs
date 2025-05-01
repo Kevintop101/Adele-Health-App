@@ -10,5 +10,8 @@ namespace Adele_Health_App.Models
         {
         }
 
+        // Add DbSet for log entries
+        public DbSet<LogEntry> LogEntries { get; set; }
+        public DbSet<LifestyleEntry> LifestyleEntries { get; set; }
     }
 }
