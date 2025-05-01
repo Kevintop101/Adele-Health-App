@@ -21,9 +21,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(appDbConnectionString));
 
 builder.Services.AddDefaultIdentity<AdeleHealthAppUser>(options =>
-    options.SignIn.RequireConfirmedAccount = true)
-    .AddEntityFrameworkStores<AdeleHealthAppAuth>();
-
+{
+    options.SignIn.RequireConfirmedAccount = false;
+})
+.AddEntityFrameworkStores<AdeleHealthAppAuth>();
 // Google auth config
 builder.Services.AddAuthentication()
     .AddGoogle(googleOptions =>

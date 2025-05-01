@@ -1,88 +1,83 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 using Adele_Health_App.Models;
-using System;
+using System.Threading.Tasks;
+using Adele_Health_App.Areas.Identity.Data;
 
 namespace Adele_Health_App.Pages
 {
     public class LifestyleModel : PageModel
     {
         private readonly ApplicationDbContext _context;
+        private readonly UserManager<AdeleHealthAppUser> _userManager;
 
-        // Constructor to inject the ApplicationDbContext
-        public LifestyleModel(ApplicationDbContext context)
+        public LifestyleModel(ApplicationDbContext context, UserManager<AdeleHealthAppUser> userManager)
         {
             _context = context;
+            _userManager = userManager;
         }
 
-        // BindProperties to capture form values from query parameters or form submissions.
-        [BindProperty(SupportsGet = true)]
-        public string Date { get; set; }
+        [BindProperty(SupportsGet = true)] public string Date { get; set; }
+        [BindProperty(SupportsGet = true)] public string Time { get; set; }
+        [BindProperty(SupportsGet = true)] public string Glucose { get; set; }
+        [BindProperty(SupportsGet = true)] public string MealTiming { get; set; }
+        [BindProperty(SupportsGet = true)] public string SelectedGlucose { get; set; }
+        [BindProperty(SupportsGet = true)] public string SelectedExercise { get; set; }
+        [BindProperty(SupportsGet = true)] public string SelectedNutrition { get; set; }
+        [BindProperty(SupportsGet = true)] public string SelectedMedication { get; set; }
+        [BindProperty(SupportsGet = true)] public string SelectedHydration { get; set; }
+        [BindProperty(SupportsGet = true)] public string SelectedSleep { get; set; }
+        [BindProperty(SupportsGet = true)] public string SelectedStress { get; set; }
+        [BindProperty(SupportsGet = true)] public string AddedTags { get; set; }
+        [BindProperty(SupportsGet = true)] public string Notes { get; set; }
 
-        [BindProperty(SupportsGet = true)]
-        public string Time { get; set; }  // Time will be handled as a string initially, to be converted to TimeSpan
-
-        [BindProperty(SupportsGet = true)]
-        public string Glucose { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string MealTiming { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string Notes { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string GlucoseStatus { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string ExerciseLevel { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string NutritionStatus { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string MedicationStatus { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string HydrationStatus { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string SleepStatus { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string StressStatus { get; set; }
-
-        [BindProperty(SupportsGet = true)]
-        public string Tags { get; set; }
-        public List<string> HydrationTags { get; set; } = new List<string>();
-        public List<string> NutritionTags { get; set; } = new List<string>();
-        public List<string> ExerciseTags { get; set; } = new List<string>();
-        public List<string> MedicationTags { get; set; } = new List<string>();
-        public List<string> SleepTags { get; set; } = new List<string>();
-        public List<string> StressTags { get; set; } = new List<string>();
-        public List<string> GlucoseTags { get; set; } = new List<string>();
         public void OnGet()
         {
+            // Prefill logic happens automatically through SupportsGet query binding.
         }
 
-        public IActionResult OnPost()
+        public async Task<IActionResult> OnPostAsync()
         {
-            string glucose = Request.Form["selectedGlucose"];
-            string exercise = Request.Form["selectedExercise"];
-            string nutrition = Request.Form["selectedNutrition"];
-            string medication = Request.Form["selectedMedication"];
-            string hydration = Request.Form["selectedHydration"];
-            string sleep = Request.Form["selectedSleep"];
-            string stress = Request.Form["selectedStress"];
-            string addedTags = Request.Form["addedTags"];
+            var userId = _userManager.GetUserId(User);
 
-        List<string> tagsList = addedTags.Split(',').ToList();
+            var entry = new LifestyleEntry
+            {
+                UserId = userId,
+                Date = Date,
+                Time = Time,
+                Glucose = Glucose,
+                MealTiming = MealTiming,
+                SelectedGlucose = SelectedGlucose,
+                SelectedExercise = SelectedExercise,
+                SelectedNutrition = SelectedNutrition,
+                SelectedMedication = SelectedMedication,
+                SelectedHydration = SelectedHydration,
+                SelectedSleep = SelectedSleep,
+                SelectedStress = SelectedStress,
+                AddedTags = AddedTags,
+                Notes = Notes
+            };
 
+            _context.LifestyleEntries.Add(entry);
+            await _context.SaveChangesAsync();
 
-            return RedirectToPage();
+            return RedirectToPage("/Lifestyle", new
+            {
+                date = Date,
+                time = Time,
+                glucose = Glucose,
+                mealTiming = MealTiming,
+                selectedGlucose = SelectedGlucose,
+                selectedExercise = SelectedExercise,
+                selectedNutrition = SelectedNutrition,
+                selectedMedication = SelectedMedication,
+                selectedHydration = SelectedHydration,
+                selectedSleep = SelectedSleep,
+                selectedStress = SelectedStress,
+                addedTags = AddedTags,
+                notes = Notes
+            });
         }
-
     }
 }
-
