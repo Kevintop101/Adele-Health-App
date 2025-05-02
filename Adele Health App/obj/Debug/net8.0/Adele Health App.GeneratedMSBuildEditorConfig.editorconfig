@@ -1,141 +1,153 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Adele_Health_App
 build_property.RootNamespace = Adele_Health_App
-build_property.ProjectDir = C:\Users\mouss\OneDrive\Documents\Classes\COMP 4710\Adele-Health-App-2\Adele Health App\
+build_property.ProjectDir = C:\Users\kevin\Downloads\Adele-health\Adele-Health-App-jacob3\Adele Health App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mouss\OneDrive\Documents\Classes\COMP 4710\Adele-Health-App-2\Adele Health App
+build_property.MSBuildProjectDirectory = C:\Users\kevin\Downloads\Adele-health\Adele-Health-App-jacob3\Adele Health App
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Chat.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhdC5jc2h0bWw=
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Api/UpdateEntry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBpXFVwZGF0ZUVudHJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Discover.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Discover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzY292ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Error.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Index.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Journal.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Journal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm91cm5hbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Lifestyle.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Lifestyle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlmZXN0eWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Logging.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Logging.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nZ2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Privacy.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/Components/Journal/A1CButton.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/Components/Journal/A1CButton.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcSm91cm5hbFxBMUNCdXR0b24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/Components/Journal/DateSection.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/Components/Journal/DateSection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcSm91cm5hbFxEYXRlU2VjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/Components/Journal/Entry.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/Components/Journal/Entry.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcSm91cm5hbFxFbnRyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/Components/Journal/EntryDetails.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/Components/Journal/EntryDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcSm91cm5hbFxFbnRyeURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/Components/Journal/EntrySection.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/Components/Journal/EntrySection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcSm91cm5hbFxFbnRyeVNlY3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/Components/Journal/GlucoseGraph.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/Components/Journal/GlucoseGraph.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcSm91cm5hbFxHbHVjb3NlR3JhcGguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/_ViewImports.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/_ViewStart.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mouss/OneDrive/Documents/Classes/COMP 4710/Adele-Health-App-2/Adele Health App/Pages/Shared/_Layout.cshtml]
+[C:/Users/kevin/Downloads/Adele-health/Adele-Health-App-jacob3/Adele Health App/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rw30e1uvgk

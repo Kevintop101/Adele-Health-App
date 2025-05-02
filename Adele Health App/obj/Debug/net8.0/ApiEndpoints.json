@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "ContainingType": "Adele_Health_App.Pages.Api.UpdateEntryController",
+    "Method": "Post",
+    "RelativePath": "Api/UpdateEntry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "time",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "reading",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mealTiming",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "notes",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

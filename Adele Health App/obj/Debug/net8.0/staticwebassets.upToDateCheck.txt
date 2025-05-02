@@ -1,11 +1,13 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\adele.png
+wwwroot\images\adelecorner.png
 wwwroot\images\adelesmall.png
 wwwroot\images\adeleyoumatter.png
 wwwroot\images\ai.png
 wwwroot\images\bookmark.png
 wwwroot\images\chat.png
+wwwroot\images\coverimage.png
 wwwroot\images\discover1.png
 wwwroot\images\exercise.png
 wwwroot\images\glucose.png

@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Adele_Health_App.Models;
 
 namespace Adele_Health_App.Models

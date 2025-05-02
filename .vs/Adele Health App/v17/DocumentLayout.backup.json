@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\pages\\journal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\pages\\journal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\pages\\shared\\components\\journal\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\pages\\shared\\components\\journal\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\pages\\shared\\components\\journal\\entrydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\pages\\shared\\components\\journal\\entrydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\models\\measurementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\models\\measurementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\pages\\journal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\pages\\journal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\pages\\testupdateentry.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\pages\\testupdateentry.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|c:\\users\\kevin\\downloads\\adele-health\\adele-health-app-jacob3\\adele health app\\models\\entrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F2F0-4C6C-45DD-9548-AA7056BBA250}|Adele Health App\\Adele Health App.csproj|solutionrelative:adele health app\\models\\entrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Adele Health App\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Adele Health App\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T01:27:19.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Adele Health App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Adele Health App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T01:25:13.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Adele Health App\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Adele Health App\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T23:20:14.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Adele Health App\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Adele Health App\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwHQAAAC+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T23:09:05.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entry.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Shared\\Components\\Journal\\Entry.cshtml",
+              "RelativeDocumentMoniker": "Adele Health App\\Pages\\Shared\\Components\\Journal\\Entry.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Shared\\Components\\Journal\\Entry.cshtml",
+              "RelativeToolTip": "Adele Health App\\Pages\\Shared\\Components\\Journal\\Entry.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T22:59:04.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntryDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Shared\\Components\\Journal\\EntryDetails.cshtml",
+              "RelativeDocumentMoniker": "Adele Health App\\Pages\\Shared\\Components\\Journal\\EntryDetails.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Shared\\Components\\Journal\\EntryDetails.cshtml",
+              "RelativeToolTip": "Adele Health App\\Pages\\Shared\\Components\\Journal\\EntryDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T22:58:11.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Journal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Journal.cshtml.cs",
+              "RelativeDocumentMoniker": "Adele Health App\\Pages\\Journal.cshtml.cs",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Journal.cshtml.cs",
+              "RelativeToolTip": "Adele Health App\\Pages\\Journal.cshtml.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:54:32.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Journal.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Journal.cshtml",
+              "RelativeDocumentMoniker": "Adele Health App\\Pages\\Journal.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Journal.cshtml",
+              "RelativeToolTip": "Adele Health App\\Pages\\Journal.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T22:53:47.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeasurementModel.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Models\\MeasurementModel.cs",
+              "RelativeDocumentMoniker": "Adele Health App\\Models\\MeasurementModel.cs",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Models\\MeasurementModel.cs",
+              "RelativeToolTip": "Adele Health App\\Models\\MeasurementModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:53:09.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Adele Health App\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Adele Health App\\Pages\\Index.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T22:49:16.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Program.cs",
+              "RelativeDocumentMoniker": "Adele Health App\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Program.cs",
+              "RelativeToolTip": "Adele Health App\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:45:19.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestUpdateEntry.html",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\TestUpdateEntry.html",
+              "RelativeDocumentMoniker": "Adele Health App\\Pages\\TestUpdateEntry.html",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Pages\\TestUpdateEntry.html",
+              "RelativeToolTip": "Adele Health App\\Pages\\TestUpdateEntry.html",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T22:56:25.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntryModel.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Models\\EntryModel.cs",
+              "RelativeDocumentMoniker": "Adele Health App\\Models\\EntryModel.cs",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Models\\EntryModel.cs",
+              "RelativeToolTip": "Adele Health App\\Models\\EntryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:52:37.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

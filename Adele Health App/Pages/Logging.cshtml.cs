@@ -4,9 +4,11 @@ using Microsoft.AspNetCore.Identity;
 using Adele_Health_App.Models;
 using System.Threading.Tasks;
 using Adele_Health_App.Areas.Identity.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Adele_Health_App.Pages
 {
+    [Authorize]
     public class LoggingModel : PageModel
     {
         private readonly ApplicationDbContext _context;

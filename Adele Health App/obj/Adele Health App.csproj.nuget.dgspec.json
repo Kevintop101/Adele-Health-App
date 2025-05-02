@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mouss\\OneDrive\\Documents\\Classes\\COMP 4710\\Adele-Health-App-2\\Adele Health App\\Adele Health App.csproj": {}
+    "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Adele Health App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mouss\\OneDrive\\Documents\\Classes\\COMP 4710\\Adele-Health-App-2\\Adele Health App\\Adele Health App.csproj": {
+    "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Adele Health App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mouss\\OneDrive\\Documents\\Classes\\COMP 4710\\Adele-Health-App-2\\Adele Health App\\Adele Health App.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Adele Health App.csproj",
         "projectName": "Adele Health App",
-        "projectPath": "C:\\Users\\mouss\\OneDrive\\Documents\\Classes\\COMP 4710\\Adele-Health-App-2\\Adele Health App\\Adele Health App.csproj",
-        "packagesPath": "C:\\Users\\mouss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mouss\\OneDrive\\Documents\\Classes\\COMP 4710\\Adele-Health-App-2\\Adele Health App\\obj\\",
+        "projectPath": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\Adele Health App.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\Downloads\\Adele-health\\Adele-Health-App-jacob3\\Adele Health App\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mouss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,9 +51,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Google.Apis.Auth": {
+            "DotNetEnv": {
               "target": "Package",
-              "version": "[1.69.0, )"
+              "version": "[3.1.1, )"
             },
             "Google.Apis.Auth.AspNetCore3": {
               "target": "Package",
@@ -56,33 +61,35 @@
             },
             "Microsoft.AspNetCore.Authentication.Google": {
               "target": "Package",
-              "version": "[8.0.15, )"
-            },
-            "Microsoft.AspNetCore.Identity": {
-              "target": "Package",
-              "version": "[2.3.1, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.15, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[8.0.15, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.15, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.15, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.15, )"
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -96,24 +103,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.14, 8.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.14, 8.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.14, 8.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.14, 8.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -122,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,11 +10,7 @@ namespace Adele_Health_App.Models
         public string MealTiming { get; set; }
         public string Date { get; set; }
         public string GlucoseResponse { get; set; }
-        public List<string> Tags { get; set; }
         public string Notes { get; set; }
-
-        // NEW ADDITION
-        public Dictionary<string, string> Measurements { get; set; } = new();
-
+        public List<MeasurementModel> Measurements { get; set; } = new();
     }
 }
