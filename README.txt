@@ -1,4 +1,2 @@
 *IMPORTANT*
-Open up the .env file
-Copy the key and paste that into the apiKey variable in Index.cshtml.cs
-
+Needs an API key in Index.cshtml.cs or else it won't run properly
